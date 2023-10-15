@@ -1,0 +1,19 @@
+a{
+    text-decoration: underline !important;
+}
+
+.fa{
+    color: blue;
+}
+
+.box{
+    background-color: rgb(203, 200, 200);
+    padding: 20px 5px;
+}
+
+.box-part{
+    background-color: white;
+    margin: 15px 20px 25px 20px;
+    padding: 40px 10px;
+    text-align: center;
+}
